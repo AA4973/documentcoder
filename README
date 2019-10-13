@@ -1,0 +1,38 @@
+Congratulations!, I am very proud of you for reaching here.
+Basic git commands:
+git pull
+git status
+git add
+git rm
+git reset
+git commit
+git push
+
+Please learn how and when to command them in your environment.
+--
+Supportive Marcos
+; )
+
+-------------------------------------------
+If you are at master branch you should turn to your personal working branch, unless you master master-branch.
+Check your current branch:
+git branch
+Turn to your branch (e.g. my branch)
+git checkout marcos
+(use your unix-like name (lowercase-nospaces) as your branch name.
+If you don't have a branch create it now:
+git checkout master #you want to branch from master
+git checkout -b <your-new-branch-name>
+
+After your firsh push you'll be asked to create a branch upstream, answer yes.
+
+-----------------------------------------------
+
+keep pulling and syncing with your peers.
+git pull
+
+git diff <peer-brach>
+git merge <peer-branch>
+
+
+
